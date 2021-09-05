@@ -11,8 +11,9 @@
 # 3.0 Results
 
   The overal webpage looks like images1 and 2:
-![image_web1](https://user-images.githubusercontent.com/85843030/132144691-034998e1-0d3c-45b7-b594-1805a46a464b.jpg)
-![image_web2](https://user-images.githubusercontent.com/85843030/132144697-b3797166-0c00-4255-9080-70241c5bf7ad.jpg)
+![image_web1](https://user-images.githubusercontent.com/85843030/132144691-034998e1-0d3c-45b7-b594-1805a46a464b.jpg)![image_web2](https://user-images.githubusercontent.com/85843030/132144770-7545cd5f-1e64-4b16-8e20-1422dad619d2.jpg)
+
+
 
 
   
