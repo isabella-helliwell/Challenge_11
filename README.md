@@ -14,6 +14,10 @@
   date 1/4/2010, we get:
  ![image](https://user-images.githubusercontent.com/85843030/132144860-0dff7d3f-06d7-424a-aa0c-9669ccdc63cc.png)
 
+If we want to filter further by shape, we can enter light and the outcome is:
+![image](https://user-images.githubusercontent.com/85843030/132144902-dfdde1a5-c8a7-4315-98d6-847aa54bac4d.png)
+
+
   
 
 
