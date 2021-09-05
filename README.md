@@ -10,8 +10,11 @@
   
 # 3.0 Results
 
-  The overal webpage looks like images1 and 2:
-![image_web1](https://user-images.githubusercontent.com/85843030/132144691-034998e1-0d3c-45b7-b594-1805a46a464b.jpg)![image_web2](https://user-images.githubusercontent.com/85843030/132144770-7545cd5f-1e64-4b16-8e20-1422dad619d2.jpg)
+  The webpage is user inetarctive and works using the user input parametres. For example, if we want to see all the UFO sightsings in california for
+  date 1/4/2010, we get:
+ ![image](https://user-images.githubusercontent.com/85843030/132144860-0dff7d3f-06d7-424a-aa0c-9669ccdc63cc.png)
+
+  
 
 
 
