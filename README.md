@@ -56,12 +56,13 @@ the input data to lowercase by adding "style="text-transform: lowercase;" in the
 
 ![image](https://user-images.githubusercontent.com/85843030/132243903-36b54337-68e3-4017-947c-7b3039747024.png)
 
-In this instance, the above line of code, stops the user inserting upper case to the "Enter a State" search.
+In this instance, the above line of code, stops the user inserting upper case to the "Enter a State" search and as the user is typing the letters 
+will appear in lowercase in the input box.
 
 
 
 
 ## 4.1 Further development
 
-It is difficult for the user to know what to filter on. Adding a scrollbar with the existing values to filter for is necessary.
+It is difficult for the user to know what to filter on. Adding a dropdown list with the existing values to filter for is necessary.
 After each search we also need to clear the filter so new filter searches can be entered.
