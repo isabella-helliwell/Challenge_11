@@ -53,6 +53,7 @@ Finally what if we search for a criteria that does not exsist like date 9/6/2021
 
 Although this webpage looks impressive, there is one clear drawback and that is the case sensivity of the input text. This can be fixed by converting
 the input data to lowercase by adding <input style="text-transform: lowercase;"/> in the html code where the user input is.
+
 ![image](https://user-images.githubusercontent.com/85843030/132243903-36b54337-68e3-4017-947c-7b3039747024.png)
 
 In this instance, the above line of code, stops the user inserting upper case to the "Enter a State" search.
