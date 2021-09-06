@@ -20,7 +20,7 @@
     The last step is to rebuild the table using the filtered data by calling the function buildTable().
     
     Also added, is an event to listen for changes to each input element and calls the updateFilters() function:d3.selectAll("input").on("change", updateFilters)
-    
+    Finally some background images and some coloring has been added to the html code to make the page unique.
     
          
   
