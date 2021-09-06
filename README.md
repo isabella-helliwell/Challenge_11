@@ -56,13 +56,13 @@ Finally what if we search for a criteria that does not exsist like date 9/6/2021
 
 
 
-# 4.0 Summary
-## 4.1 Additional improvements:
+# 5.0 Summary
+## 5.1 Additional improvements:
 
 Although this webpage looks impressive, there is one clear drawback and that is the case sensivity of the input text. This can be fixed by converting
 the input data to lowercase.
 
-## 4.1 Further development
+## 5.2 Further development
 
 It is difficult for the user to know what to filter on. Adding a dropdown list with the existing values to filter for is necessary.
 After each search we also need to clear the filter so new filter searches can be entered.
