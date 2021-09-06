@@ -10,7 +10,14 @@
 
 # 3.0 Coding
 
-    In html, the user is asked to enter date, city, state, country amd shape. 
+    In html, the user is asked to enter date, city, state, country amd shape. The user can enter either a single value input box
+    or a multiple value input box. Each time the user presses enter, the data table is filtered in accordance with the user input criteria.
+    
+    In app.js, two functions are created, function updateFilters(), which will take the user input data from the html, and save the objects into
+    a new object variable, filters{}.
+    If a filter value is entered, it is added to the filters{}, list, if no filter value is added, the filter is deleted from the filters object.
+    
+    
     Using Javascript, a function is created that saves the elements, value, and id of the filter that the user has set in the input
     boxes in the HTML code. 
     If a filter value is entered, than it will be added to the elementValue, otherwise the filter will be cleared from the filters object.
@@ -20,7 +27,7 @@
     
        
   
-# 3.0 Results
+# 4.0 Results
   
   The webpage takes the user input and
   The webpage is user inetarctive and works using the user input parametres. For example, if we want to see all the UFO sightsings in california for
