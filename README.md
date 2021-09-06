@@ -20,6 +20,11 @@ If we want to filter further by shape, we can enter light and the outcome is:
 Here we have filtered by date: 1/1/2010, state:fl, the output is:
 ![image](https://user-images.githubusercontent.com/85843030/132144969-cf72454e-4bd3-400b-af5d-5a1f39cfda41.png)
 
+Here the filter is city: el cajon, and the output is:
+![image](https://user-images.githubusercontent.com/85843030/132145013-e6b60631-8e39-48cc-a4de-1a4355347068.png)
+
+
+
 
 
 
