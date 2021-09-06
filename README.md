@@ -9,8 +9,16 @@
    - datasource: data.js
 
 # 3.0 Coding
+
+    In html, the user is asked to enter date, city, state, country amd shape. 
     Using Javascript, a function is created that saves the elements, value, and id of the filter that the user has set in the input
-    boxes in the HTML code. A new function is created to loop through the dataset and keep the results that match the user's searc criteria.
+    boxes in the HTML code. 
+    If a filter value is entered, than it will be added to the elementValue, otherwise the filter will be cleared from the filters object.
+    The filter is applied to the table by using a function to filter the data.
+    After looping through the filters, any data that macthes the filter values is kept. 
+    For the final step, the table data is rebuild using the filtered data.
+    
+       
   
 # 3.0 Results
   
