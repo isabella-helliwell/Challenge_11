@@ -8,24 +8,21 @@
    - Language: JavaScript, HTML
    - datasource: data.js
 
-# 3.0 Coding
+# 3.0 Coding Summary
 
-    In html, the user is asked to enter date, city, state, country amd shape. The user can enter either a single value input box
-    or a multiple value input box. Each time the user presses enter, the data table is filtered in accordance with the user input criteria.
+    In html, the user is asked to enter date, city, state, country and shape. The user can enter either a single value input box
+    or a multiple value input boxes. Each time the user presses enter, the data table is filtered in accordance with the user input criteria.
     
     In app.js, two functions are created, function updateFilters(), which will take the user input data from the html, and save the objects into
     a new object variable, filters{}.
     If a filter value is entered, it is added to the filters{}, list, if no filter value is added, the filter is deleted from the filters object.
+    Next, a function is called to loop through the filters and keep any data that matches the filter value.
+    The last step is to rebuild the table using the filtered data by calling the function buildTable().
+    
+    Also added, is an event to listen for changes to each input element and calls the updateFilters() function:d3.selectAll("input").on("change", updateFilters)
     
     
-    Using Javascript, a function is created that saves the elements, value, and id of the filter that the user has set in the input
-    boxes in the HTML code. 
-    If a filter value is entered, than it will be added to the elementValue, otherwise the filter will be cleared from the filters object.
-    The filter is applied to the table by using a function to filter the data.
-    After looping through the filters, any data that macthes the filter values is kept. 
-    For the final step, the table data is rebuild using the filtered data.
-    
-       
+         
   
 # 4.0 Results
   
