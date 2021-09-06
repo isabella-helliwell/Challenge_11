@@ -5,11 +5,16 @@
 
 # 2.0 Resources
 
-  Language: JavaScript, HTML
-  datasource: data.js
+   - Language: JavaScript, HTML
+   - datasource: data.js
+
+# 3.0 Coding
+    Using Javascript, a function is created that saves the elements, value, and id of the filter that the user has set in the input
+    boxes in the HTML code. A new function is created to loop through the dataset and keep the results that match the user's searc criteria.
   
 # 3.0 Results
-
+  
+  The webpage takes the user input and
   The webpage is user inetarctive and works using the user input parametres. For example, if we want to see all the UFO sightsings in california for
   date 1/4/2010, we get:
  ![image](https://user-images.githubusercontent.com/85843030/132144860-0dff7d3f-06d7-424a-aa0c-9669ccdc63cc.png)
