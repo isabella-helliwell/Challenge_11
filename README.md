@@ -40,6 +40,11 @@ Here we have filtered by date: 1/1/2010, state:fl, the output is:
 Here the filter is city: el cajon, and the output is:
 ![image](https://user-images.githubusercontent.com/85843030/132145013-e6b60631-8e39-48cc-a4de-1a4355347068.png)
 
+Filtering by country: Canada. The output is;
+![image](https://user-images.githubusercontent.com/85843030/132239983-5419b10e-20d0-4edd-b638-558991dd62fd.png)
+
+Finally what if we search for a criteria that does not exsist like date 9/6/2021, the output:
+![image](https://user-images.githubusercontent.com/85843030/132240301-5acfa416-324b-44b2-98cc-61a35702b17b.png)
 
 
 
