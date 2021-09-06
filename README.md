@@ -48,26 +48,19 @@ Finally what if we search for a criteria that does not exsist like date 9/6/2021
 
 
 
+# 4.0 Summary
+## 4.1 Additional improvements:
 
+Although this webpage looks impressive, there is one clear drawback and that is the case sensivity of the input text. This can be fixed by converting
+the input data to lowercase by adding <input style="text-transform: lowercase;"/> in the html code where the user input is.
+![image](https://user-images.githubusercontent.com/85843030/132243903-36b54337-68e3-4017-947c-7b3039747024.png)
 
-  
-
-
-
-
-  
-  
-  
-
+In this instance, the above line of code, stops the user inserting upper case to the "Enter a State" search.
 
 
 
 
+## 4.1 Further development
 
-
-
-
-# 4.0 Additional improvements:
-
-The input deck is case sensitive, one way of fixing this, can be that we take the input and transform it to lowercase in the javascript
-We could also add a count function to count how many sightings have been in countys. 
+It is difficult for the user to know what to filter on. Adding a scrollbar with the existing values to filter for is necessary.
+After each search we also need to clear the filter so new filter searches can be entered.
