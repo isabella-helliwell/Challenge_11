@@ -26,25 +26,33 @@
   
 # 4.0 Results
   
-  The webpage takes the user input and
+  ![image](https://user-images.githubusercontent.com/85843030/132246335-d931cb32-48ea-4fa5-8bfa-4f3358177d4b.png)
+
+  
   The webpage is user inetarctive and works using the user input parametres. For example, if we want to see all the UFO sightsings in california for
   date 1/4/2010, we get:
- ![image](https://user-images.githubusercontent.com/85843030/132144860-0dff7d3f-06d7-424a-aa0c-9669ccdc63cc.png)
+ ![image](https://user-images.githubusercontent.com/85843030/132246485-96f03c34-e3f8-4730-a9f9-aab5464bce67.png)
 
 If we want to filter further by shape, we can enter light and the outcome is:
-![image](https://user-images.githubusercontent.com/85843030/132144902-dfdde1a5-c8a7-4315-98d6-847aa54bac4d.png)
+![image](https://user-images.githubusercontent.com/85843030/132246615-bfdccd53-9107-423a-b291-c95afcede6ef.png)
+
 
 Here we have filtered by date: 1/1/2010, state:fl, the output is:
-![image](https://user-images.githubusercontent.com/85843030/132144969-cf72454e-4bd3-400b-af5d-5a1f39cfda41.png)
+![image](https://user-images.githubusercontent.com/85843030/132246695-4930ecb5-058d-4558-a828-5d6611e7c0be.png)
+
 
 Here the filter is city: el cajon, and the output is:
-![image](https://user-images.githubusercontent.com/85843030/132145013-e6b60631-8e39-48cc-a4de-1a4355347068.png)
+![image](https://user-images.githubusercontent.com/85843030/132246802-c825d6c1-55a8-4689-ba7a-1fb1d8a7258f.png)
+
 
 Filtering by country: Canada. The output is;
-![image](https://user-images.githubusercontent.com/85843030/132239983-5419b10e-20d0-4edd-b638-558991dd62fd.png)
+![image](https://user-images.githubusercontent.com/85843030/132246863-2f960902-862b-4c96-a293-17fc5802bf2f.png)
+
+
 
 Finally what if we search for a criteria that does not exsist like date 9/6/2021, the output:
-![image](https://user-images.githubusercontent.com/85843030/132240301-5acfa416-324b-44b2-98cc-61a35702b17b.png)
+![image](https://user-images.githubusercontent.com/85843030/132246934-cd86a64a-b052-4ad6-97f8-e12bf6263aee.png)
+
 
 
 
@@ -52,15 +60,7 @@ Finally what if we search for a criteria that does not exsist like date 9/6/2021
 ## 4.1 Additional improvements:
 
 Although this webpage looks impressive, there is one clear drawback and that is the case sensivity of the input text. This can be fixed by converting
-the input data to lowercase by adding "style="text-transform: lowercase;" in the html code where the user input is.
-
-![image](https://user-images.githubusercontent.com/85843030/132243903-36b54337-68e3-4017-947c-7b3039747024.png)
-
-In this instance, the above line of code, stops the user inserting upper case to the "Enter a State" search and as the user is typing the letters 
-will appear in lowercase in the input box.
-
-
-
+the input data to lowercase.
 
 ## 4.1 Further development
 
